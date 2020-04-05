@@ -19,25 +19,28 @@ ul {
 li {
 	padding-top: 24px;
   	float: right;
- }
+}
 
 li a {
     display: block;
  	color: #EFE731;
 	text-align: center;
-  	padding: 14px 16px;}
+  	padding: 14px 16px;
+ }
 
 #header{
 	width: 85%; 
 	max-width: 900px; 
 	margin: 0 auto;
-	font-size: 18px;}
+	font-size: 18px;
+}
 
 #header-logo{
 	width: 196px; 
 	top: 21px; 
 	position: absolute; 
-	z-index: 5;}
+	z-index: 5;
+}
 
 * {box-sizing: border-box}
 .mySlides {display: none}
